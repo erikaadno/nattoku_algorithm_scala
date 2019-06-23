@@ -7,7 +7,6 @@ class SearchFunctionsSpec extends FunSpec with Matchers  {
 
   val searchFunctions = new SearchFunctions()
 
-
   describe("BinarySearch test") {
     val testCases = Table(
       ("target", "expected"),

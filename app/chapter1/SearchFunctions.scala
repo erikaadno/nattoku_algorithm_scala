@@ -1,6 +1,6 @@
 package chapter1
 
-class SearchFunctions extends App {
+class SearchFunctions {
 
   def binarySearch(list: Seq[Int], target: Int): Option[Int] = {
     def loop(low: Int, high: Int): Option[Int] = {
