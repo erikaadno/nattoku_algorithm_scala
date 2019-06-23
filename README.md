@@ -1,0 +1,2 @@
+# nattoku_algorithm_scala
+なっとく！アルゴリズムの練習場所。言語はScala
